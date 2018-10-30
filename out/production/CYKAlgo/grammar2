@@ -1,0 +1,13 @@
+S->a
+S->XY
+S->YX
+X->b
+X->SY
+X->YS
+Y->c
+Y->YZ
+Y->ZY
+Y->XX
+Z->d
+Z->SX
+Z->XS
